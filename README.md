@@ -14,6 +14,6 @@
 	<li> Uso de if </li>
  </ul>
 <br>
- <li> <b> Objetivo: </b> Crear un programa en C que imprima los codigos ASCII de 10 en 10  </li>
+ <li> <b> Objetivo: </b> Crear un programa en C que imprima los codigos ASCII de 10 en 10 empleando ciclos.  </li>
  <br>
  <li><b> Breve descripción: </b>Programa 6 del parcial 2 en C que muestra los valores de 10 en 10 para la materia programacion estructurada. </li>
